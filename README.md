@@ -6,7 +6,12 @@ Welcome to the repository for the "Seed Phrase Generator & Balance Checker"! Her
 The primary focus of this repository is to provide robust tools for cryptocurrency security and wallet management. With features such as a secure seed phrase generator and a balance checker for various cryptocurrencies, this toolkit is perfect for both new and experienced users looking to safeguard their assets and monitor their holdings effectively.
 
 ## 🛠️ Repository Topics
-
+seed-phase-generator
+seed-phase-generator-download
+seed-phase-checker
+seed-phrase-generator-2025
+seed-phrase-brute-force
+seed-phrases-generate
 
 ## 📦 Get Started
 To access the tools and resources provided in this repository, you can download the necessary files from the following link: 
